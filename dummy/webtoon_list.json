@@ -1,0 +1,158 @@
+{
+    "webtoonList" : [
+        {
+            "id" : 1,
+            "title" : "뷰티풀 군바리",
+            "artist" : "설이/윤성원",
+            "day" : "mon",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/648419/thumbnail/thumbnail_IMAG10_1421195d-13be-4cde-bcf9-0c78d51c5ea3.jpg"
+        },
+        {
+            "id" : 2,
+            "title" : "윈드브레이커",
+            "artist" : "조용석",
+            "day" : "mon",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/602910/thumbnail/thumbnail_IMAG10_ec235b6e-c4fa-47ab-8141-36c4f1572a79.jpg"
+        },
+        {
+            "id" : 3,
+            "title" : "닥터 하운드",
+            "artist" : "아루아니/레임",
+            "day" : "mon",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/700858/thumbnail/thumbnail_IMAG10_a01d69ed-7018-4f26-8c9e-e081b66037eb.jpg"
+        },
+        {
+            "id" : 4,
+            "title" : "여신강림",
+            "artist" : "야옹이",
+            "day" : "tue",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/703846/thumbnail/thumbnail_IMAG10_35503130-16ce-4236-b913-0fe76226de36.jpg"
+        },
+        {
+            "id" : 5,
+            "title" : "문래빗",
+            "artist" : "이난",
+            "day" : "tue",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/710758/thumbnail/thumbnail_IMAG10_92008068-e8b4-448d-951d-490cbb09db42.jpg"
+        },
+        {
+            "id" : 6,
+            "title" : "열정호구",
+            "artist" : "솔뱅이",
+            "day" : "tue",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/686312/thumbnail/title_thumbnail_20161010182406_t83x90.jpg"
+        },
+        {
+            "id" : 7,
+            "title" : "복학왕",
+            "artist" : "기안84",
+            "day" : "wed",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/626907/thumbnail/title_thumbnail_20150407141027_t83x90.jpg"
+        },
+        {
+            "id" : 8,
+            "title" : "연놈",
+            "artist" : "상하",
+            "day" : "wed",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/667573/thumbnail/title_thumbnail_20151120112903_t83x90.jpg"
+        },
+        {
+            "id" : 9,
+            "title" : "세상은 돈과 권력",
+            "artist" : "한동우/이도희",
+            "day" : "wed",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/710747/thumbnail/thumbnail_IMAG10_b1079a8d-2d5e-49df-8f30-05b3e215170b.jpg"
+        },
+        {
+            "id" : 10,
+            "title" : "연애혁명",
+            "artist" : "232",
+            "day" : "thu",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/570503/thumbnail/thumbnail_IMAG10_5719a3fe-81f4-4a0c-8c27-eca1631e8384.jpg"
+        },
+        {
+            "id" : 11,
+            "title" : "기기괴괴",
+            "artist" : "오성대",
+            "day" : "thu",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/557672/thumbnail/title_thumbnail_20130508182053_t83x90.jpg"
+        },
+        {
+            "id" : 12,
+            "title" : "좋아하는 부분",
+            "artist" : "타리",
+            "day" : "thu",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/699659/thumbnail/thumbnail_IMAG10_e12f7293-375d-4612-87e7-1b1db2dc9fb0.jpg"
+        },
+        {
+            "id" : 13,
+            "title" : "외모지상주의",
+            "artist" : "박태준",
+            "day" : "fri",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/641253/thumbnail/title_thumbnail_20141120112141_t83x90.jpg"
+        },
+        {
+            "id" : 14,
+            "title" : "갓 오브 하이스쿨",
+            "artist" : "박용제",
+            "day" : "fri",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/318995/thumbnail/title_thumbnail_20110407182655_t83x90.jpg"
+        },
+        {
+            "id" : 15,
+            "title" : "스위트홈",
+            "artist" : "김칸비/황영찬",
+            "day" : "fri",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/701081/thumbnail/thumbnail_IMAG10_7120be5e-b5c7-4727-aba5-cb500c6098ab.jpg"
+        },
+        {
+            "id" : 16,
+            "title" : "프리드로우",
+            "artist" : "전선욱",
+            "day" : "sat",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/597447/thumbnail/title_thumbnail_20131102162055_t83x90.jpg"
+        },
+        {
+            "id" : 17,
+            "title" : "호랑이형님",
+            "artist" : "이상규",
+            "day" : "sat",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/650305/thumbnail/title_thumbnail_20161209212128_t83x90.jpg"
+        },
+        {
+            "id" : 18,
+            "title" : "부활남",
+            "artist" : "채용택/김재한",
+            "day" : "sat",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/670139/thumbnail/thumbnail_IMAG10_7293f981-bf32-45ae-b75e-df181b253688.jpg"
+        },
+        {
+            "id" : 19,
+            "title" : "타인은 지옥이다",
+            "artist" : "김용키",
+            "day" : "sun",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/708378/thumbnail/thumbnail_IMAG10_a274b9a0-0775-44b2-b34f-3199b07a4db4.jpg"
+        },
+        {
+            "id" : 20,
+            "title" : "조의 영역",
+            "artist" : "조석",
+            "day" : "sun",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/697656/thumbnail/thumbnail_IMAG10_7d08e994-e6e9-437f-9001-e3cd28892a8a.jpg"
+        },
+        {
+            "id" : 21,
+            "title" : "약한영웅",
+            "artist" : "서패스/김진석",
+            "day" : "sun",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/710751/thumbnail/thumbnail_IMAG10_eed99ea4-5908-4445-b89a-d3881797f909.jpg"
+        },
+        {
+            "id" : 22,
+            "title" : "내일",
+            "artist" : "라마",
+            "day" : "sun",
+            "thumbnail" : "https://shared-comic.pstatic.net/thumb/webtoon/695796/thumbnail/thumbnail_IMAG10_715d2406-1940-48ad-9ca5-fb84693769b6.jpg"
+        }
+    ]
+}
