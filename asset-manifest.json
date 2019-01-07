@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-tutorial-webtoon/static/css/main.94ea2f9a.chunk.css",
-  "main.js": "/react-tutorial-webtoon/static/js/main.7b981742.chunk.js",
-  "main.js.map": "/react-tutorial-webtoon/static/js/main.7b981742.chunk.js.map",
-  "static/js/1.783e417f.chunk.js": "/react-tutorial-webtoon/static/js/1.783e417f.chunk.js",
-  "static/js/1.783e417f.chunk.js.map": "/react-tutorial-webtoon/static/js/1.783e417f.chunk.js.map",
-  "runtime~main.js": "/react-tutorial-webtoon/static/js/runtime~main.10cf9abb.js",
-  "runtime~main.js.map": "/react-tutorial-webtoon/static/js/runtime~main.10cf9abb.js.map",
-  "static/css/main.94ea2f9a.chunk.css.map": "/react-tutorial-webtoon/static/css/main.94ea2f9a.chunk.css.map",
-  "index.html": "/react-tutorial-webtoon/index.html",
-  "precache-manifest.cedb7eacb47e1b3d5239fe2f919c5bbb.js": "/react-tutorial-webtoon/precache-manifest.cedb7eacb47e1b3d5239fe2f919c5bbb.js",
-  "service-worker.js": "/react-tutorial-webtoon/service-worker.js"
+  "main.css": "/react-webtoon/static/css/main.94ea2f9a.chunk.css",
+  "main.js": "/react-webtoon/static/js/main.9853f127.chunk.js",
+  "main.js.map": "/react-webtoon/static/js/main.9853f127.chunk.js.map",
+  "static/js/1.783e417f.chunk.js": "/react-webtoon/static/js/1.783e417f.chunk.js",
+  "static/js/1.783e417f.chunk.js.map": "/react-webtoon/static/js/1.783e417f.chunk.js.map",
+  "runtime~main.js": "/react-webtoon/static/js/runtime~main.d0a9ae2d.js",
+  "runtime~main.js.map": "/react-webtoon/static/js/runtime~main.d0a9ae2d.js.map",
+  "static/css/main.94ea2f9a.chunk.css.map": "/react-webtoon/static/css/main.94ea2f9a.chunk.css.map",
+  "index.html": "/react-webtoon/index.html",
+  "precache-manifest.0748b0b2f6d07f6156e896d9fb432f24.js": "/react-webtoon/precache-manifest.0748b0b2f6d07f6156e896d9fb432f24.js",
+  "service-worker.js": "/react-webtoon/service-worker.js"
 }

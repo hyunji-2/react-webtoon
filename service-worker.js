@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-tutorial-webtoon/precache-manifest.cedb7eacb47e1b3d5239fe2f919c5bbb.js"
+  "/react-webtoon/precache-manifest.0748b0b2f6d07f6156e896d9fb432f24.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-tutorial-webtoon/index.html", {
+workbox.routing.registerNavigationRoute("/react-webtoon/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
