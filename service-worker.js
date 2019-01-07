@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-webtoon/precache-manifest.0b4c32e4cc144ae0b66f63cfb2b6b6d4.js"
+  "/react-webtoon/precache-manifest.b8b47358a7823857cc9893346c0f8d0a.js"
 );
 
 workbox.clientsClaim();
