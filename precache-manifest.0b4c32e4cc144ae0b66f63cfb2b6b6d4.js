@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-webtoon/static/css/main.15575cbd.chunk.css"
   },
   {
-    "revision": "02c780507b9b27f26388b552a4012f49",
+    "revision": "4cfcaad3bc48eb4178e024134c596258",
     "url": "/react-webtoon/index.html"
   }
 ];
