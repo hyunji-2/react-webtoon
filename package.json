@@ -17,7 +17,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://HyunJi-2.github.io/react-tutorial-webtoon",
+  "homepage": "https://HyunJi-2.github.io/react-webtoon",
   "eslintConfig": {
     "extends": "react-app"
   },
