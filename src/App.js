@@ -12,7 +12,7 @@ class App extends Component {
   render() {
       console.log("test");
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path="/" component={Main} />
           <Route path="/webtoon/:webtoonId" component={WebtoonHome} />
