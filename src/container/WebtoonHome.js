@@ -23,7 +23,7 @@ class WebtoonHome extends Component{
     }
 
     _getWebtoon(){
-        const apiUrl = '/dummy/webtoon_detail.json';
+        const apiUrl = process.env.PUBLIC_URL + '/dummy/webtoon_detail.json';
 
         axios.get(apiUrl)
             .then(data => {
@@ -40,7 +40,7 @@ class WebtoonHome extends Component{
     }
 
     _getEpisodeList(){
-        const apiUrl = '/dummy/episode_list.json';
+        const apiUrl = process.env.PUBLIC_URL + '/dummy/episode_list.json';
 
         axios.get(apiUrl)
             .then(data => {

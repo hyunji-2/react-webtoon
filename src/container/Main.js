@@ -39,7 +39,7 @@ class Main extends Component{
 
     _getList(){
         // webtoon_list를 가지고 옴
-        const apiUrl = '/dummy/webtoon_list.json';
+        const apiUrl = process.env.PUBLIC_URL + '/dummy/webtoon_list.json';
 
         axios.get(apiUrl)
             .then(data => {
@@ -49,7 +49,8 @@ class Main extends Component{
                 });
             })
             .catch(error => {
-                console.log(error);
+                // console.log(error);
+                console.log(apiUrl);
             });
     }
 

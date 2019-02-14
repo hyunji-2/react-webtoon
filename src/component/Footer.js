@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => (
     <div className="footer">
-        &copy; HyunJi-2
+        &copy; NAVER WEBTOON CORP. HyunJi-2
     </div>
 )
 

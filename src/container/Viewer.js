@@ -17,7 +17,7 @@ class Viewer extends Component{
     }
 
     _getEpisodeList(){
-        const apiUrl = '/dummy/episode_list.json';
+        const apiUrl = process.env.PUBLIC_URL + '/dummy/episode_list.json';
 
         axios.get(apiUrl)
             .then(data => {

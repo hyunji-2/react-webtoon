@@ -10,7 +10,6 @@ import NoMatch from './component/NoMatch'
 
 class App extends Component {
   render() {
-      console.log("test");
     return (
         <Router basename={process.env.PUBLIC_URL}>
         <Switch>
