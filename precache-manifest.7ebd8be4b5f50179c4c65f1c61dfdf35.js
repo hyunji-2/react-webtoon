@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/react-webtoon/static/js/runtime~main.d0a9ae2d.js"
   },
   {
-    "revision": "bdfbba162eae98a35a7b",
-    "url": "/react-webtoon/static/js/main.bdfbba16.chunk.js"
+    "revision": "2e96da7d7152421ca775",
+    "url": "/react-webtoon/static/js/main.2e96da7d.chunk.js"
   },
   {
     "revision": "b9f0fb5371853a850801",
     "url": "/react-webtoon/static/js/1.b9f0fb53.chunk.js"
   },
   {
-    "revision": "bdfbba162eae98a35a7b",
-    "url": "/react-webtoon/static/css/main.9584996a.chunk.css"
+    "revision": "2e96da7d7152421ca775",
+    "url": "/react-webtoon/static/css/main.0e9401a1.chunk.css"
   },
   {
-    "revision": "d53884a9c96bee7d4f8c0bf0123b9791",
+    "revision": "63bdcaea29db4aa5de45e2d99cc69120",
     "url": "/react-webtoon/index.html"
   }
 ];
