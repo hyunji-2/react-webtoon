@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
-import './App.css';
-
 import Main from './container/Main';
 import WebtoonHome from './container/WebtoonHome';
 import Viewer from './container/Viewer';
 import NoMatch from './component/NoMatch'
+
+import './scss/_import.scss';
 
 class App extends Component {
   render() {

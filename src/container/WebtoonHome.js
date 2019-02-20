@@ -23,13 +23,13 @@ class WebtoonHome extends Component{
     }
 
     _getWebtoon(){
-        const apiUrl = process.env.PUBLIC_URL + '/dummy/webtoon_detail.json';
+        const apiUrl = process.env.PUBLIC_URL + '/dummy/webtoon_list.json';
 
         axios.get(apiUrl)
             .then(data => {
                 // 웹툰들 중 ID가 일치하는 웹툰을 state.webtoon에 저장
                 this.setState({
-                    webtoon : data.data.webtoons.find(w => (
+                    webtoon : data.data.webtoonList.find(w => (
                         w.id === this.state.webtoonId
                     ))
                 });

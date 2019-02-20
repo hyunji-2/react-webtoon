@@ -1,0 +1,27 @@
+.wrap_webtoon {
+  display:flex;
+  padding:10px;
+  align-items:center;
+
+  .img_webtoon {margin-right:10px;}
+
+  .info_webtoon {overflow:hidden;
+    .tit_webtoon {
+      display:block;
+      padding-bottom:8px;
+      font-size:16px;
+    }
+    .num_score {
+      display:block;
+      padding-top:10px;
+      color:#666;
+    }
+    .txt_genre {
+      display:inline-block;
+      margin-right:4px;
+      padding:3px 6px;
+      background-color:#eee;
+      font-size:12px;
+    }
+  }
+}

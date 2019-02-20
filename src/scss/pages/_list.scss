@@ -1,0 +1,23 @@
+.list_webtoon {
+  li {border-top:1px solid #ccc;}
+  .link_webtoon {display:flex;align-items:center;}
+  .img_webtoon {margin-right:10px;}
+
+  .info_webtoon {
+    .tit_webtoon {
+      display:block;
+      padding-bottom:8px;
+      font-size:16px;
+    }
+  }
+}
+
+.list_episode {
+  .link_webtoon {padding:10px;}
+
+  .img_webtoon {
+    width:81px;
+    margin-right:20px;
+    border:1px solid #ccc;
+  }
+}
