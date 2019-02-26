@@ -5,6 +5,8 @@ import Gnb from "../component/Gnb";
 import Footer from "../component/Footer";
 import WebtoonList from "../component/WebtoonList";
 
+import '../scss/webtoon.scss';
+
 class Main extends Component{
     constructor(props){
         super(props);

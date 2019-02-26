@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import axios from "axios/index";
 import {Link} from "react-router-dom";
 
+import '../scss/viewer.scss';
+
 class Viewer extends Component{
     constructor(props){
         super(props)

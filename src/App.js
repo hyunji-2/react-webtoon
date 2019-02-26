@@ -6,8 +6,6 @@ import WebtoonHome from './container/WebtoonHome';
 import Viewer from './container/Viewer';
 import NoMatch from './component/NoMatch'
 
-import './scss/_import.scss';
-
 class App extends Component {
   render() {
     return (

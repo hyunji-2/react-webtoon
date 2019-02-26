@@ -6,6 +6,8 @@ import Footer from "../component/Footer";
 import WebtoonInfo from "../component/WebtoonInfo";
 import EpisodeList from "../component/EpisodeList";
 
+import '../scss/list.scss';
+
 class WebtoonHome extends Component{
     constructor(props){
         super(props);
